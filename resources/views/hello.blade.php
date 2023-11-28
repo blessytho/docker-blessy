@@ -1,7 +1,7 @@
 <html>
   <body>
-    <h1>/hello Good day/</h1>
-    <p> Good day - Blessy </p>
+    <h1>/My Website - Blessy/</h1>
+    <p> Making changes in Nov 28 </p>
   </body>
 </html>
 
